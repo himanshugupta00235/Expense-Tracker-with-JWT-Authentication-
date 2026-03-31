@@ -130,7 +130,7 @@ Open a Pull Request
 ```
 👨‍💻 Developer
 <div align="center">
-Subham Nayak
+Himanshu Gupta
 Full Stack Developer
 </div>
 
