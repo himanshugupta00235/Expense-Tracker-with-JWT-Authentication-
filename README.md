@@ -95,13 +95,6 @@ Signup Page
 <img width="1914" height="929" alt="image" src="https://github.com/user-attachments/assets/56d31efc-1f56-4e5b-a933-02834e6cb722" />
 
 
-Core Features
-Expense 
-<img width="1914" height="929" alt="image" src="https://github.com/user-attachments/assets/9a09ff4b-738b-4bf1-b9eb-7a4d721b57eb" />
-
-Financial Analytic
-<img width="1914" height="929" alt="image" src="https://github.com/user-attachments/assets/48fd169b-2884-46e8-b993-0411a513135c" />
-
 🌐 Deployment 
 Frontend (Vercel)
 ```bash
